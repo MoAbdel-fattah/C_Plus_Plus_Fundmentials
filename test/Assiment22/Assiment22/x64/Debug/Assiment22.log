@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Mohamed\OneDrive\Desktop\test\Assiment22\Assiment22\Source.cpp(47,5): error C2065: 'sum3': undeclared identifier
+C:\Users\Mohamed\OneDrive\Desktop\test\Assiment22\Assiment22\Source.cpp(49,23): error C2065: 'sum3': undeclared identifier
+C:\Users\Mohamed\OneDrive\Desktop\test\Assiment22\Assiment22\Source.cpp(57,5): error C2065: 'sum4': undeclared identifier
+C:\Users\Mohamed\OneDrive\Desktop\test\Assiment22\Assiment22\Source.cpp(59,23): error C2065: 'sum4': undeclared identifier
